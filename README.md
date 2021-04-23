@@ -1,2 +1,4 @@
 # dirty_sock
-privilege_escalation snap
+when you checked suid settings binary with find command
+that's showed  "/usr/bin/snap"
+just then is chance for try use this script
