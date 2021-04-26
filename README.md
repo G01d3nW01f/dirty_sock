@@ -1,4 +1,4 @@
 # dirty_sock
-when you checked suid settings binary with find command
-that's showed  "/usr/bin/snap".....
-just then is chance for try use this script
+if you search suid setted binary with the "find" command 
+and then showed to "/usr/bin/snap"
+just then You got the chance to use this script yeah
